@@ -1,12 +1,6 @@
-```
- █████╗ ███████╗ █████╗ ███╗   ███╗
-██╔══██╗╚══███╔╝██╔══██╗████╗ ████║
-███████║  ███╔╝ ███████║██╔████╔██║
-██╔══██║ ███╔╝  ██╔══██║██║╚██╔╝██║
-██║  ██║███████╗██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-  computer & electrical engineering · santa cruz, ca
-```
+<img src="./banner.svg" alt="Azam Mohamed, computer and electrical engineering" width="820">
+
+
 
 I build things close to the metal: operating system internals, embedded firmware,
 and silicon. B.S. Computer Engineering at UC Santa Cruz, finished in three years
