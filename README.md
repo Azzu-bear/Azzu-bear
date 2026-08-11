@@ -19,8 +19,9 @@ Firmware runs [ENTS-tock](https://github.com/jlab-sensing/ENTS-tock) on Tock OS.
 I work on making sure a node in the dirt produces valid data that survives the
 whole path to the dashboard, and on finding where it does not.
 
-**Undergraduate researcher, PICO compute cluster.** Kubernetes research workloads,
-Incus containers and VMs for reproducible experiment environments.
+**Undergraduate researcher, PICO compute cluster, under Prof. Abel Souza.**
+Kubernetes research workloads, Incus containers and VMs for reproducible
+experiment environments.
 
 ### Selected work
 
