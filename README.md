@@ -45,7 +45,7 @@ tools       git · gdb · valgrind · docker · kubernetes · neovim · tmux
 
 ### Reach me
 
-[azamoham@ucsc.edu](mailto:azamoham@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/)
+[azamoham@ucsc.edu](mailto:azamoham@ucsc.edu) · [LinkedIn](https://www.linkedin.com/in/azam-mohamed-718780295/)
 
 ```
                     .  .  .
